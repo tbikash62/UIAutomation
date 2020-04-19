@@ -1,0 +1,4 @@
+[INFO ] 2020-04-11 22:32:19.915 [main] log4j - This is info
+[ERROR] 2020-04-11 22:32:19.918 [main] log4j - This is error
+[WARN ] 2020-04-11 22:32:19.918 [main] log4j - This is info
+[FATAL] 2020-04-11 22:32:19.918 [main] log4j - This is info

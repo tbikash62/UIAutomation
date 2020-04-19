@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25fd1f57-30af-4d49-a10c-813824c28908" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aPJZDYdj28zbwuFppNAOhtGz97" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Automation_Workspace_IJ\banking_NEW\banking\src\test\java\com\inetbaking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Login ">
+    <configuration name="log4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logs.log4j" />
+      <module name="banking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login " type="TestNG">
+      <module name="banking" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="TestNG">
+      <module name="banking" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.log4j" />
+      <item itemvalue="TestNG.Search" />
+      <item itemvalue="TestNG.Login " />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.log4j" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25fd1f57-30af-4d49-a10c-813824c28908" name="Default Changelist" comment="" />
+      <created>1586631349476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586631349476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="24" key="#Project_Structure" timestamp="1586631564922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586631564922" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586642174580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586642174580" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1586638789055">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586638789055" />
+    <state width="1322" height="194" key="GridCell.Tab.0.bottom" timestamp="1586645475877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586645475877" />
+    <state width="1322" height="194" key="GridCell.Tab.0.center" timestamp="1586645475876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586645475876" />
+    <state width="1322" height="194" key="GridCell.Tab.0.left" timestamp="1586645475866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586645475866" />
+    <state width="1322" height="194" key="GridCell.Tab.0.right" timestamp="1586645475876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586645475876" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1587328185066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587328185066" />
+    <state x="498" y="143" key="chooseDestDirectoryDialog" timestamp="1586645425196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="143" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1586645425196" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1587327208959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587327208959" />
+  </component>
+</project>
